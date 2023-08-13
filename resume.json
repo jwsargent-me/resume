@@ -1,0 +1,78 @@
+{
+  "skills": [
+    "Blender",
+    "After Effects",
+    "Photoshop",
+    "Premiere",
+    "Illustrator",
+    "Lottie Animation",
+    "Motion Graphics",
+    "Python",
+    "Javascript",
+    "Simulation",
+    "Substance Designer",
+    "Procedural Design"
+  ],
+  "experience": [
+    [
+      "Viddyoze",
+      "Motion Graphics Artist",
+      "MARCH 2016 - AUGUST 2023",
+      "At Viddyoze I was responsible for creating high quality motion graphics templates throughout all phases of development, and ensuring that they fit within specific technical and artistic guidelines",
+      [
+        "Became fluent with Python and scripting repetitive tasks to save time and increase precision",
+        "Rapidly learned new skills and tools when needed",
+        "Developed tools and scripts to elevate results from the entire team"
+      ],
+      [
+        "Blender",
+        "After Effects",
+        "Photoshop",
+        "Simulation",
+        "Python",
+        "Javascript",
+        "Lottie animation"
+      ]
+    ],
+    [
+      "Freelance",
+      "Digital Artist",
+      "AUGUST 2017 - PRESENT",
+      "I have worked on a range of 3D animated projects in a freelance capacity over the past few years, from video production to product visualization. I’ve learned that good communication and planning are the keys to a successful creative project",
+      [
+        "Autonomously executed project plans while keeping clients informed and in control",
+        "Adapted to working with clients and teams in different time zones and regions",
+        "Constantly learned new tools, techniques, and best practices"
+      ],
+      [
+        "Blender",
+        "Photoshop",
+        "After Effects",
+        "Premiere",
+        "Simulation",
+        "Terrain Generation",
+        "Substance Designer"
+      ]
+    ],
+    [
+      "StratusIotSolutions",
+      "Digital Designer",
+      "MARCH 2015 - JUNE 2016",
+      "Was responsible for delivering high quality visuals and graphics. Integrated device live data feeds into multiple web based front ends.",
+      [
+        "Designed label graphics for external application on hardware",
+        "Integrated live data feeds into a website using a range of programming methods for web",
+        "Created initial logos and graphics for new and existing projects",
+        "Provided artistic direction and advice"
+      ],
+      [
+        "Blender",
+        "Photoshop",
+        "Premiere",
+        "Javascript",
+        "HTML5",
+        "JSON data"
+      ]
+    ]
+  ]
+}
